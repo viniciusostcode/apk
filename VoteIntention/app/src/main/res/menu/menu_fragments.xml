@@ -1,0 +1,13 @@
+<?xml version="1.0" encoding="utf-8"?>
+<menu xmlns:android="http://schemas.android.com/apk/res/android"
+    xmlns:app="http://schemas.android.com/apk/res-auto">
+    <item
+        android:id="@+id/fragment_bygender"
+        android:title="Votos por genero"/>
+    <item
+        android:id="@+id/fragment_byage"
+        android:title="Votos por idade"/>
+    <item
+        android:id="@+id/fragment_bysalary"
+        android:title="Votos por media salarial"/>
+</menu>
